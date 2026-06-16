@@ -1,0 +1,16 @@
+Ticker,Model,Total_Trading_Days,Event_Window_Days,Non_Event_Window_Days,Total_Anomalies,Event_Window_Anomalies,Non_Event_Window_Anomalies,Event_Window_Detection_Rate,Non_Event_Window_Anomaly_Rate
+AAPL,Isolation Forest,1245,196,1049,63,8,55,0.0408,0.0524
+AAPL,One-Class SVM,1245,196,1049,66,4,62,0.0204,0.0591
+AAPL,Local Outlier Factor,1245,196,1049,63,6,57,0.0306,0.0543
+AMZN,Isolation Forest,1245,200,1045,63,4,59,0.02,0.0565
+AMZN,One-Class SVM,1245,200,1045,64,5,59,0.025,0.0565
+AMZN,Local Outlier Factor,1245,200,1045,63,3,60,0.015,0.0574
+MSFT,Isolation Forest,1245,195,1050,63,9,54,0.0462,0.0514
+MSFT,One-Class SVM,1245,195,1050,66,8,58,0.041,0.0552
+MSFT,Local Outlier Factor,1245,195,1050,63,10,53,0.0513,0.0505
+NVDA,Isolation Forest,1245,200,1045,63,5,58,0.025,0.0555
+NVDA,One-Class SVM,1245,200,1045,71,7,64,0.035,0.0612
+NVDA,Local Outlier Factor,1245,200,1045,63,6,57,0.03,0.0545
+TSLA,Isolation Forest,1245,196,1049,63,6,57,0.0306,0.0543
+TSLA,One-Class SVM,1245,196,1049,64,11,53,0.0561,0.0505
+TSLA,Local Outlier Factor,1245,196,1049,63,6,57,0.0306,0.0543

@@ -1,0 +1,6 @@
+Ticker,Total_Trading_Days,Event_Window_Days,Non_Event_Window_Days,Event_Window_Rate,Expected_Event_Window_Days,Coverage_Check
+AAPL,1255,200,1055,0.1594,200,OK
+AMZN,1255,200,1055,0.1594,200,OK
+MSFT,1255,200,1055,0.1594,200,OK
+NVDA,1255,200,1055,0.1594,200,OK
+TSLA,1255,200,1055,0.1594,200,OK

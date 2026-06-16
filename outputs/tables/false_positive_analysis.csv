@@ -1,0 +1,16 @@
+Ticker,Model,Non_Event_Window_Days,Total_Anomaly_Alerts,Event_Based_False_Positive_Alerts,Event_Based_False_Positive_Rate,False_Positive_Share_Of_All_Alerts,Interpretation_Note
+AAPL,Isolation Forest,1049,63,55,0.0524,0.873,Outside event-window alert under the event-based evaluation framework
+AAPL,One-Class SVM,1049,66,62,0.0591,0.9394,Outside event-window alert under the event-based evaluation framework
+AAPL,Local Outlier Factor,1049,63,57,0.0543,0.9048,Outside event-window alert under the event-based evaluation framework
+AMZN,Isolation Forest,1045,63,59,0.0565,0.9365,Outside event-window alert under the event-based evaluation framework
+AMZN,One-Class SVM,1045,64,59,0.0565,0.9219,Outside event-window alert under the event-based evaluation framework
+AMZN,Local Outlier Factor,1045,63,60,0.0574,0.9524,Outside event-window alert under the event-based evaluation framework
+MSFT,Isolation Forest,1050,63,54,0.0514,0.8571,Outside event-window alert under the event-based evaluation framework
+MSFT,One-Class SVM,1050,66,58,0.0552,0.8788,Outside event-window alert under the event-based evaluation framework
+MSFT,Local Outlier Factor,1050,63,53,0.0505,0.8413,Outside event-window alert under the event-based evaluation framework
+NVDA,Isolation Forest,1045,63,58,0.0555,0.9206,Outside event-window alert under the event-based evaluation framework
+NVDA,One-Class SVM,1045,71,64,0.0612,0.9014,Outside event-window alert under the event-based evaluation framework
+NVDA,Local Outlier Factor,1045,63,57,0.0545,0.9048,Outside event-window alert under the event-based evaluation framework
+TSLA,Isolation Forest,1049,63,57,0.0543,0.9048,Outside event-window alert under the event-based evaluation framework
+TSLA,One-Class SVM,1049,64,53,0.0505,0.8281,Outside event-window alert under the event-based evaluation framework
+TSLA,Local Outlier Factor,1049,63,57,0.0543,0.9048,Outside event-window alert under the event-based evaluation framework

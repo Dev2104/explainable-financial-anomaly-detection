@@ -1,0 +1,16 @@
+Ticker,Model,Event_Window_Detection_Rate,Non_Event_Window_Anomaly_Rate,Relative_Anomaly_Concentration,Concentration_Interpretation
+AAPL,Isolation Forest,0.0408,0.0524,0.7786,Higher or similar concentration outside event windows
+AAPL,One-Class SVM,0.0204,0.0591,0.3452,Higher or similar concentration outside event windows
+AAPL,Local Outlier Factor,0.0306,0.0543,0.5635,Higher or similar concentration outside event windows
+AMZN,Isolation Forest,0.02,0.0565,0.354,Higher or similar concentration outside event windows
+AMZN,One-Class SVM,0.025,0.0565,0.4425,Higher or similar concentration outside event windows
+AMZN,Local Outlier Factor,0.015,0.0574,0.2613,Higher or similar concentration outside event windows
+MSFT,Isolation Forest,0.0462,0.0514,0.8988,Higher or similar concentration outside event windows
+MSFT,One-Class SVM,0.041,0.0552,0.7428,Higher or similar concentration outside event windows
+MSFT,Local Outlier Factor,0.0513,0.0505,1.0158,Higher concentration inside event windows
+NVDA,Isolation Forest,0.025,0.0555,0.4505,Higher or similar concentration outside event windows
+NVDA,One-Class SVM,0.035,0.0612,0.5719,Higher or similar concentration outside event windows
+NVDA,Local Outlier Factor,0.03,0.0545,0.5505,Higher or similar concentration outside event windows
+TSLA,Isolation Forest,0.0306,0.0543,0.5635,Higher or similar concentration outside event windows
+TSLA,One-Class SVM,0.0561,0.0505,1.1109,Higher concentration inside event windows
+TSLA,Local Outlier Factor,0.0306,0.0543,0.5635,Higher or similar concentration outside event windows
