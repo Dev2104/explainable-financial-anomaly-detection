@@ -6,9 +6,23 @@ This project is part of an M.Sc. Data Science dissertation titled:
 
 The project develops an Explainable AI-based anomaly detection framework to identify unusual trading behaviour in financial market data around quarterly earnings announcements.
 
+# Explainable Financial Anomaly Detection Dashboard
+
+This project is part of an M.Sc. Data Science dissertation titled:
+
+**Evaluating Explainable AI-Based Anomaly Detection Models for Financial Trading Surveillance**
+
+## Live Demo
+
+The deployed Streamlit dashboard can be accessed here:
+
+**Live App:** [https://explainable-financial-anomaly-detection-devt2104.streamlit.app/]
+
 ## Project Overview
 
-The dashboard focuses on detecting and interpreting unusual market activity using unsupervised machine learning models. The analysis is based on public financial market data and focuses on a 10-trading-day pre-earnings event window.
+This project develops an Explainable AI-based anomaly detection framework to identify unusual trading behaviour in financial market data around quarterly earnings announcements.
+
+The dashboard provides a finance-surveillance-style interface for exploring market data, event-window analysis, anomaly detection outputs, model comparison results, and SHAP-based explainability visualisations.
 
 The project does not claim to detect fraud, insider trading, or market manipulation. Instead, it identifies model-flagged anomalous trading behaviour for academic research and surveillance-oriented analysis.
 
